@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">I’m a BTech student at USICT building real-world AI/ML systems with Python.<br>I focus on turning ideas into end-to-end products , combining models, APIs, and deployment.<br>My work spans ML, NLP, and experimental projects like stock prediction and automation tools.<br>This profile is a log of learning, building, and improving with every commit.</h4>
+<h4 align="left">I’m a BTech student at USICT building real-world AI/ML systems with Python.<br><br>I focus on turning ideas into end-to-end products , combining models, APIs, and deployment.<br>My work spans ML, NLP, and experimental projects like stock prediction and automation tools.<br><br>This profile is a log of learning, building, and improving with every commit.</h4>
 
 ###
 
